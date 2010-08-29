@@ -1,0 +1,2 @@
+class BaseFoldersController < AdminController
+end
